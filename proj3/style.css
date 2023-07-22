@@ -1,0 +1,12 @@
+.main{
+    height: 50%;
+    width: 40%;
+    margin-top: 10%;
+    background-color: aquamarine;
+    border-radius: 10px;
+    opacity: 0.7;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+.form{
+    align-items: center;
+}
